@@ -1,0 +1,7 @@
+# You should list any juggernaut hosts here.
+# You need only specify the secret key if you're using that type of authentication (see juggernaut.yml)
+
+:hosts:
+  - :port: 5001
+    :host: 82.232.156.73
+    :environment: :production

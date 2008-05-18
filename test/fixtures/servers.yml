@@ -1,0 +1,17 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  ip_addr: MyString
+  port: MyString
+  transparency: MyString
+  country: MyString
+  state: 1
+  retries: 1
+
+two:
+  ip_addr: MyString
+  port: MyString
+  transparency: MyString
+  country: MyString
+  state: 1
+  retries: 1
