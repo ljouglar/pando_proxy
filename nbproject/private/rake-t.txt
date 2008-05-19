@@ -1,0 +1,5 @@
+(in /var/www/rails/pando_proxy)
+rake aborted!
+no such file to load -- hpricot
+/var/www/rails/pando_proxy/Rakefile:10
+(See full trace by running task with --trace)
